@@ -15,5 +15,5 @@
 
 ### Managers:
 
-* `SocialNetwork`: User management, follow/unfollow
-* `FeedManager`: Post management, feed generation
+* `SocialMediaNetworkManager`: User management, follow/unfollow
+* `SocialMediaFeedManager`: Post management, feed generation
